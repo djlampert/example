@@ -1,6 +1,6 @@
 name: plot-environment
 
 dependencies:
-  - python=3.4
+  - python3
   - numpy
   - matplotlib
